@@ -1,0 +1,1 @@
+This repository is dedicated to the fine-tuning and deployment of the BERT model for Workflows Classification. Explore the Streamlit app via the following link: https://bertclass1-mtdhnmw9cr5bzer84ahpzb.streamlit.app/.
